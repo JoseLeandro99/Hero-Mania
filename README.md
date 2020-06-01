@@ -7,10 +7,10 @@
 <br/>
 <br/>
 
-  <img src="./.github/01.jpeg" width="320"/>
-  <img src="./.github/02.jpeg" width="320"/>
-  <img src="./.github/03.jpeg" width="320"/>
-  <img src="./.github/04.jpeg" width="320"/>
+  <img src="./.github/01.jpeg" width="320" style="border:1px solid #cccccc"/>
+  <img src="./.github/02.jpeg" width="320" style="border:1px solid #cccccc"/>
+  <img src="./.github/03.jpeg" width="320" style="border:1px solid #cccccc"/>
+  <img src="./.github/04.jpeg" width="320" style="border:1px solid #cccccc"/>
 </p>
 
 ### Techonolgies:
