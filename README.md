@@ -4,10 +4,10 @@
   <p>
 Catalog of superheroes from various comics, cartoons, series and books.</p>
 
-  <img src="./.github/01.jpeg" width="45%"/>
-  <img src="./.github/02.jpeg" width="45%"/>
-  <img src="./.github/03.jpeg" width="45%"/>
-  <img src="./.github/04.jpeg" width="45%"/>
+  <img src="./.github/01.jpeg" width="400"/>
+  <img src="./.github/02.jpeg" width="400"/>
+  <img src="./.github/03.jpeg" width="400"/>
+  <img src="./.github/04.jpeg" width="400"/>
 </center>
 
 ### Techonolgies:
